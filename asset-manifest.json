@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quick-import-crypto-token/static/css/main.84487ea8.css",
+    "main.js": "/quick-import-crypto-token/static/js/main.8a4711f1.js",
+    "index.html": "/quick-import-crypto-token/index.html",
+    "main.84487ea8.css.map": "/quick-import-crypto-token/static/css/main.84487ea8.css.map",
+    "main.8a4711f1.js.map": "/quick-import-crypto-token/static/js/main.8a4711f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.8a4711f1.js"
+  ]
+}
